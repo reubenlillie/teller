@@ -2,6 +2,6 @@
 
 Teller is a hugo theme for the votinuum project.
 
-Copyright &copy; 2019 [Reuben L. Lillie][rlillie]
+Copyright &copy; 2019 [Shenango Press][shenango]
 
-[rlillie]: https://github.com/reubenlillie
+[shenango]: https://github.com/reubenlillie
